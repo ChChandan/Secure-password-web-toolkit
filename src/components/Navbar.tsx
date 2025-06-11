@@ -16,7 +16,7 @@ const Navbar = () => {
                                 <Link to="/" className="text-gray-600  hover:text-blue-700">Password Strenght</Link>
                                 <Link to="/HaveIbeenPawned" className="text-gray-600 hover:text-blue-700 ">Was I compromised ?</Link>
                                 <Link to="/PasswordGenerator" className="text-gray-600 hover:text-blue-700">Password generator</Link>
-                                <Link to="/PasswordBreaker" className="text-gray-600 hover:text-blue-700">Password Breaker</Link>
+                               
                             </div>
                         </div>
                     </div>
